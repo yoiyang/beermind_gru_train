@@ -1,4 +1,4 @@
-# File & explanation
+## Files
 
 configs_beerstyle.py: numeric mapping of beer styles
 
@@ -22,7 +22,7 @@ main_test_original_bleu.py: using one-to-one calculation to find bleu score give
 
 models.py: has class definitions of GRU and LSTM
 
-# Usage
+## Get started
 
 0. Check your environment. Requirement: python 3, pytorch, cuda, BeerAdvocatesPA4 datasets.
 1. Modify configs.py with ideal hyperparameters before training.
